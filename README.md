@@ -19,15 +19,19 @@ Comprobar conceptos de inductores y transformadores
 
 2.	OBJETIVOS ESPECÍFICOS
 
-• Comprender los conceptos de las características de los inductores como inductancia, voltaje inducido entre otros
+• Determinar el ancho de banda de circuitos resonantes.
 
-• Dominar y calcular las polaridades del voltaje inducido según la ley de Faraday y de Lenz
+• Explorar las aplicaciones de circuitos resonantes.
 
-• Aprender y calcular mediante las fórmulas de la relación entre la relación de vueltas, voltaje y corriente
+• Analizar la operación de filtros pasabajas y pasaaltas RC y RL.
 
-• Comprender el funcionamiento de la medición y la búsqueda de fallas en transformadores. 
+• Analizar la operación de filtros pasabanda y rechazabanda.
 
 3.	MARCO TEÓRICO
+
+![Purple and Yellow Pastel Doodle Mind Map Brainstorm](https://user-images.githubusercontent.com/117800753/221936586-dcdcdb95-58cd-45f1-882b-f75cf864e41f.jpg)
+
+![Captura de pantalla 2023-02-28 124400](https://user-images.githubusercontent.com/117800753/221936629-a222da73-bfec-46ce-a94e-0272315da8a4.png)
 
 
 4.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
@@ -186,6 +190,118 @@ de banda? ¿Cuál es la frecuencia resonante?
 de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Æ.
 
 ![image](https://user-images.githubusercontent.com/117800753/221742533-31694ae6-5259-4c8b-9a9e-e3090fc9ab3d.png)
+
+CAPITULO 18
+
+SECCIÓN 18–1 Filtros pasabajas
+
+2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias
+se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/117800753/221925474-6bb72e8f-2fc0-4bfa-aee1-c9045eb8a580.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221925512-05641a4f-4813-4676-8438-b0e97e56fe87.png)
+
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada ca-
+so cuando Vent 5 5 V.
+
+![image](https://user-images.githubusercontent.com/117800753/221925674-fcd726b6-ef0c-49a7-97b5-e2e406fe995a.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221925609-7f112a09-b65a-4608-beb3-28cf97914337.png)
+
+*6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmu-
+tados de la figura 18-40.
+
+![image](https://user-images.githubusercontent.com/117800753/221925786-deaa71d6-6fbb-4b91-927d-fbc519d9c681.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221925895-932d1677-1e3a-47fa-a702-611a6de608d2.png)
+
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+![image](https://user-images.githubusercontent.com/117800753/221926000-30c8d89c-f7a1-4b47-98c7-1b21fed9f416.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221926109-c09f97f6-8fcd-4889-92ea-2568413de109.png)
+
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB
+en las siguientes frecuencias (fc 5 1 kHz):
+
+![image](https://user-images.githubusercontent.com/117800753/221926056-d55a4c34-3133-4fd6-90aa-4920e86c2d28.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221926166-5052b842-5a27-4c67-b9b1-7bd50351b549.png)
+
+SECCIÓN 18–2 Filtros pasaaltas
+
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuen-
+cias se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/117800753/221926245-c1b4824a-17c8-42e6-81c2-0a9b143dba39.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221926344-a8e2279a-49e4-4b29-b02f-7c12923dc719.png)
+
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent 5
+10 V).
+
+![image](https://user-images.githubusercontent.com/117800753/221926418-1aef1924-1cab-4e2d-9319-d30d9dfbf3fe.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221926524-07d43fd6-40b4-4403-8b03-64aca5519b11.png)
+
+*16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+
+![image](https://user-images.githubusercontent.com/117800753/221930548-aa5d17d1-7c8d-4de7-8e53-6397ae84045d.png)
+
+SECCIÓN 18–3 Filtros pasabanda
+
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Æ, de-
+termine el ancho de banda para cada filtro.
+
+![image](https://user-images.githubusercontent.com/117800753/221930904-56334f92-072f-43cf-a097-423d0aad4f5b.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221930966-65ce28a7-4c8a-4a85-9424-f3b8c0cfdb08.png)
+
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+
+![image](https://user-images.githubusercontent.com/117800753/221931123-0f4d79ec-ca11-4a11-a3d6-b8d5c038ee77.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221931225-6f51651d-4e14-4abd-a46d-f326c8de5e7a.png)
+
+*22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figu-
+ra 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW 5 0 Æ para cada bobina.
+
+![image](https://user-images.githubusercontent.com/117800753/221931341-816042f6-ef35-44b7-ac81-8b84d7d7280e.png)
+
+SECCIÓN 18–4 Filtros Rechazabanda
+
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+
+![image](https://user-images.githubusercontent.com/117800753/221932040-6f86cd2c-24d2-4a3f-ba3f-fa8e6f91b244.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221931957-38a529c1-a8e3-4091-a5da-8168e7b002bb.png)
+
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición
+de resonancia cuando Vent 5 50 V?
+
+![image](https://user-images.githubusercontent.com/117800753/221932114-cc261add-ebc1-4f58-a9bd-97c6c174cd1e.png)
+
+![image](https://user-images.githubusercontent.com/117800753/221932159-1df06284-449f-4450-807a-679556e8ffb6.png)
+
+5.VIDEO
+
+6.CONCLUSIONES
+
+• Se logró ilustrar aplicaciones de circuitos RC, RL y RLC, mediante el uso de los conocimientos previamente adquiridos en los capítulos acerca de circuitos RC y circuitos RL.
+
+• Se pudo estudiar a fondo circuitos RLC en paralelo, serie y serie-paralelo
+
+• Se alcanzó el entendimiento necesario para determinar la impedancia de los circuitos estudiados.
+
+• Se logró comprender la manera de recabar el ancho de banda de circuitos resonantes
+
+• Se entendió el uso de circuitos resonantes
+
+• Finalmente, se puedo entender la operación de filtros pasabajas y pasaaltas RC y RL, igualmente de filtros pasabanda y rechazabanda
+7.BIBLIOGRAFÍA
+
+Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
 
 
 
