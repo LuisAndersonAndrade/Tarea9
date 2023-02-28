@@ -286,6 +286,8 @@ de resonancia cuando Vent 5 50 V?
 
 5.VIDEO
 
+https://youtu.be/PavQFj3tRkM
+
 6.CONCLUSIONES
 
 • Se logró ilustrar aplicaciones de circuitos RC, RL y RLC, mediante el uso de los conocimientos previamente adquiridos en los capítulos acerca de circuitos RC y circuitos RL.
